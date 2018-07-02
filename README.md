@@ -4,6 +4,6 @@
 
 
 #### yangHarusDiPerbaiki
-* structurProject
-* pemilihanTabDiEditor
-* penulisanCode
+* structurProject ✔︎
+* pemilihanTabDiEditor ✔︎
+* penulisanCode ✔︎
